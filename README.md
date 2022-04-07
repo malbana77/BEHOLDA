@@ -1,4 +1,3 @@
-# Net_scanner
 ![2021-03-31_170643](https://user-images.githubusercontent.com/77072306/113157402-dc660800-9208-11eb-8450-0f59bb8626ab.png)
 
 * To make easy && fast network scanning process.
