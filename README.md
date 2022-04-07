@@ -12,7 +12,7 @@
 ```
 git clone https://github.com/malbana77/BEHOLDA
 cd BEHOLDA
-chmod +x Beholda.sh requirements.sh
+chmod +x beholda.sh requirements.sh
 ./requirements.sh
 sudo ./beholda.sh
 ```
